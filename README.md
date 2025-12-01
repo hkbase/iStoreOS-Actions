@@ -21,6 +21,7 @@
 ## 🤔 项目介绍 [![](https://img.shields.io/badge/-项目介绍-FFFFFF.svg)](#-项目介绍-)
 **iStoreOS** 目标是提供一个人人会用的路由兼轻 **NAS 系统** ，不管是作为路由还是 NAS，你都有相似的操作体验。
 
+> [!TIP]
 > 😂此固件为非官方构建，不保证完全无BUG，请知悉😂
 
 > 😂如果您对当前项目有抵触心理，欢迎您使用右侧项目😂👉👉👉[iStoreOS-Native](https://github.com/Kwonelee/iStoreOS-Native)
